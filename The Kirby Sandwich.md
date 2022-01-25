@@ -1,9 +1,6 @@
 # The Kirby Sandwich
 ## _How to make the delcious meal_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 The Kirby Sandwich is perfect for breakfast, lunch, dessert, or a snack. We don't sacrifice taste for health. Our sweet recipe is enjoyed by all with a sweet tooth.
 
