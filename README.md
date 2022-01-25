@@ -5,7 +5,7 @@
 The Kirby Sandwich is perfect for breakfast, lunch, dessert, or a snack. We don't sacrifice taste for health. Our sweet recipe is enjoyed by all with a sweet tooth.
 
 <img src="download.jfif" alt="describe the image HERE for accessibility purposes" style="width:30%;" class="center-img">
-     <p style="text-align: center"><em>Add a caption.</em></p>
+     <p style="text-align: center"><em></em></p>
 
 ## Ingredients
 
